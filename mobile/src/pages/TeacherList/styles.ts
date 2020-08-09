@@ -38,6 +38,24 @@ const styles = StyleSheet.create({
         marginBottom: 16
     },
 
+    pickerContainer: {
+        height: 54,
+        marginBottom: 16,
+        backgroundColor: '#F8F8FC',
+        borderRadius: 8,
+        overflow: 'hidden'
+    },
+
+    picker: {
+        fontFamily: 'Poppins_400Regular',
+        fontSize: 14,
+        color: '#6A6180'
+    },
+
+    pickerItem: {
+        color: '#6A6180'
+    },
+
     submitButton: {
         backgroundColor: '#04D361',
         height: 56,
