@@ -25,7 +25,7 @@
     "metro": "0.66.0",
     "metro-config": "0.66.0",
     "node-fetch": "2.6.7",
-    "plist": "3.0.2",
+    "plist": "3.0.4",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
     "react-native": "0.64.1",
