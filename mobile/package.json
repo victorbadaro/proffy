@@ -16,7 +16,7 @@
     "@react-navigation/bottom-tabs": "^5.8.0",
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
-    "axios": "^0.21.2",
+    "axios": "^1.8.2",
     "expo": "41.0.1",
     "expo-font": "9.1.0",
     "expo-status-bar": "^1.0.2",
@@ -43,5 +43,6 @@
     "@types/react-native": "~0.62.13",
     "typescript": "~3.9.5"
   },
-  "private": true
+  "private": true,
+  "packageManager": "yarn@1.22.19+sha1.4ba7fc5c6e704fce2066ecbfb0b0d8976fe62447"
 }
